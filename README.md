@@ -10,11 +10,11 @@
 
   Step2: Open the "Signup" file with Android Studio (make sure that you have an emulator installed), and run it.
 
-  Step3: Try the functions in the emulator.
+  Step3: Try the functions of “Signup” in the emulator.
 
   Step4: When you see the "GO TO LOGIN" button, Open the "Login" file and run it.
 
-  Step5: Try with functions in "Login".
+  Step5: Try with functions of "Login" in the emulator.
 
 
 

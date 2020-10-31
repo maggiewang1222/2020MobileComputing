@@ -15,6 +15,8 @@
   Step4: When you see the "GO TO LOGIN" button, Open the "Login" file and run it.
 
   Step5: Try with functions of "Login" in the emulator.
+  
+  Step6: The file named "LoginFail" shows the feedback when you enter wrong password during logging in.
 
 
 
@@ -31,6 +33,8 @@
   Step5: When you see the "GO TO LOGIN" button, Open the "Login" file and run it.
 
   Step6: Try with functions of "Login" in the device.
+  
+  Step6: The file named "LoginFail" shows the feedback when you enter wrong password during logging in.
 
 
 ##3. Link to website
